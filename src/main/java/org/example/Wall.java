@@ -5,7 +5,7 @@ public class Wall {
     private double height;
 
     public Wall(double width, double height) {
-        setWidth(width);  
+        setWidth(width);
         setHeight(height);
     }
 
